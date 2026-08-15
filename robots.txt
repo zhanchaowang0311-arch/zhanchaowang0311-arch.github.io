@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://zhanchaowang0311-arch.github.io/sitemap.xml
